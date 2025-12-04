@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1> Welcome to everyone to  YK  World of Fun and Joy Happy World</h1>
+    <h1> Welcome to everyone for happy world</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
