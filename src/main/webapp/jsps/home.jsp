@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1> Welcome to everyone for happy happy world of yk on Friday</h1>
+    <h1> Welcome to everyone for happy happy world of yk on Friday morning</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
